@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationhialeah.com/sitemap.xml
